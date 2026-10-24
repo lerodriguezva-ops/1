@@ -1,0 +1,3 @@
+Hola, este es mi laboratorio Git.
+Estoy aprendiendo a trabajar con archivos en C++.
+Este archivo contiene datos de entrada.
